@@ -28,7 +28,7 @@ This command will create a copy of the repository on your local machine, allowin
 
 After successfully cloning the repository, change the working directory. You can use the following command in the command line. 
 ```
-$ cd website-data
+$ cd management-skripsi-laravel
 ```
 
 #### [B. Setting Up the Project](#outline)
